@@ -1,0 +1,22 @@
+SlideShow Program
+
+Displays the .JPG files in the selected directory and all its subdirectories in the order in which they are listed in File 
+Explorer.
+
+On startup, select the directory that contains the files to be displayed.
+
+The Auto button opens a window to choose the wait time (seconds) for each displayed slide.  Once Auto is running, it changes to Pause to stop the Auto function, or Resume to resume it. 
+
+The Prev button and the Left Key interrupt the Auto function, and display the previous slide. Resume turns the Auto function back on at normal size.  
+
+The Next button and the Right Key display the next slide.  The Auto function remains on.
+
+The Pause button interrupts the Auto function.  It can be turned back on by Resume.
+
+The Expand and Shrink buttons interrupt the Auto function, but it can be turned back on at normal size with Resume.  They also turn on the Left/Right/Up/Down buttons. 
+
+The order of the slides is determined by the alphabetical order in Windows File Explorer.  You can change the order by editing the file name, e.g., by adding a sequential number in front of the file names.
+
+If you encounter any problem please let me know, preferably with the picture files that produced them, so that I can try to modify the code to deal with the circumstance.
+	
+Victor van Lint.  vicvanlint@sbcglobal.net
